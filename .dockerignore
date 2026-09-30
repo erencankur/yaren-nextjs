@@ -1,0 +1,15 @@
+node_modules
+.next
+.git
+.gitignore
+Dockerfile
+.dockerignore
+README.md
+.env*
+npm-debug.log
+.DS_Store
+coverage
+local-asset-archive
+local-screenshots
+.playwright-cli
+*.tsbuildinfo
