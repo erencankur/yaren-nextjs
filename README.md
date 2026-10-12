@@ -11,7 +11,6 @@ Bu projeyi sevgilim **Yaren** için yaptım. Birlikte vakit geçirebileceğimiz,
 | **Solitaire** | Klondike, özel J/Q/K kartları, kart sürükleme, geri alma, skor ve oyun ayarları. |
 | **Tavla** | Aynı cihazda iki kişilik oyun, Yaren için beyaz/siyah seçimi, zar atma, geçerli hamleleri gösterme ve tur yönetimi. |
 | **Giydirmece** | Piksel karakter üzerinde altı kategoriden kıyafet ve aksesuar seçimi; seçili parçaya yeniden dokunarak çıkarma. |
-| **Giydirmece düzenleyicisi** | Görsellerin konumunu, boyutunu, katmanını ve görünürlüğünü ayarlama; not tutma ve JSON içe/dışa aktarma. |
 | **Ortak deneyim** | Dört renk teması, yumuşak tema geçişleri, playlist ve oynatma/duraklatma kontrolleri. |
 
 Oyun arayüzleri mobil ve masaüstü ekranlara uyarlanır. Giydirmece düzenleyicisi ayrıntılı asset çalışmaları için masaüstü kullanımına odaklanır. Ana sayfadaki **Ateş ve Su** bölümü henüz oynanabilir değildir.
